@@ -1,5 +1,3 @@
-# waste-management-powerbi-dashboard
-
 # Waste Management & Recycling Dashboard (Power BI)
 
 ## Project Overview
