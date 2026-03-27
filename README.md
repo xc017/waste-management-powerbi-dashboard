@@ -40,4 +40,4 @@ The analysis suggests that targeted improvements in high-volume, low-recycling c
 ---
 
 ## Dashboard Preview
-![Dashboard](waste-management-powerbi-dashboard/dashboard.png)
+![Dashboard](dashboard.png)
